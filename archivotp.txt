@@ -1,4 +1,1 @@
 Archivo Ale
-commit gonza 1
-commit gonza 2 
-commit gonza 3
